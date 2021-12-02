@@ -6,3 +6,8 @@ $ eval $(ssh-agent -s)
 
 # 2: Adicionar a chave privada ao ssh-agent
 $ ssh-add ~/.ssh/id_ed25519
+
+# 1: Fazer um commit:
+$ git add <caminho do arquivo ou pasta>
+$ git commit -m "<Mensagem concisa>"
+$ git push origin <main ou outra raiz>
