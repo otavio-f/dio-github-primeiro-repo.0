@@ -1,0 +1,4 @@
+# 1: Fazer um commit:
+$ git add <caminho do arquivo ou pasta>
+$ git commit -m "<Mensagem concisa>"
+$ git push origin <main ou outra raiz>
